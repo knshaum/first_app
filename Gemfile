@@ -7,6 +7,7 @@ gem 'rails', '3.2.14'
 
 gem 'sqlite3'
 
+gem 'sqlite3-ruby', '1.2.5', :group => :development
 
 # Gems used only for assets and not required
 # in production environments by default.
